@@ -9,8 +9,8 @@ class PortfolioContent {
   static const String profileImage = "assets/profile.png"; 
 
   // Contact
-  static const String email = "contact@example.com";
-  static const String location = "Tech City, India";
+  static const String email = "sorav.sh09@gmail.com";
+  static const String location = "MP, India";
   
   // Social Links
   static final List<SocialLink> socials = [
